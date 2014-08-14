@@ -1,29 +1,23 @@
 ---
 ---
+// -*-*- Variables -*-*- //
+@import 'variables/global'; // Global variables
+@import 'variables/styling'; // Styling variables
 
-@import 'nicefonties';
-@import 'foldedcorner';
-//@import url(http://fonts.googleapis.com/css?family=Open+Sans|Roboto|Oswald);
+// -*-*- Fonts -*-*- //
+@import 'components/nicefonties'; // All the /google/ fonts
 
-.header {
-	border-top: 5px solid #658E15;
-	border-bottom: 1px solid #E8E8E8;
-  min-height: 64px;
-}
+// -*-*- Effects -*-*- //
+@import 'components/effects/foldedcorner'; // Folded corner effect
 
-.heading {
-  font-family: 'Oswald', sans-serif;
-  display: block;
-  font-size: 26px;
-  color: #333;
-  float: left;
-  position: relative;
-  line-height: 56px;
-  letter-spacing: -1;
-  outline: none !important;
-  outline-offset: none !important;
-}
+// -*-*- Elements -*-*- //
 
-#title {
-  margin-left: 10px;
-}
+//* Header *//
+@import 'variables/header/styling'; // Styling variables for the header
+@import 'elements/header/header'; // Main .header class
+@import 'elements/header/heading'; // Header heading (title)
+@import 'elements/header/title'; // Small .title styling
+
+
+// -*-*- Shame -*-*- //
+@import 'shame'; // Shame on me!
