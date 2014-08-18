@@ -1,3 +1,22 @@
-.header > nav[role="navigation"] a {
-	
+nav[role="navigation"] a {
+	color: #000000;
+  font-family: 'Oswald', sans-serif;
+  display: block;
+  text-decoration: none;
+  float: left;
+  outline: none;
+  outline-offset: none;
 }
+
+#navigation a {
+  display: block;
+  float: none;
+  padding: 0.5em 0px;
+
+  @media (min-width: $menuBreakpointMin) {
+    line-height: $menuLinkLineHeight;
+    float: left;
+    padding: 0px 0.5em;
+  }
+}
+
