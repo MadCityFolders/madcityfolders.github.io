@@ -19,6 +19,14 @@
 @import 'elements/header/title'; // Small .title styling
 @import 'elements/header/links'; // Styling for links in the menu
 
+//* Headers *//
+@import 'elements/headers'; // Styling for <h*> elements
+
+//* Paragraphs *//
+@import 'elements/paragraphs'; // Styling for <p> elements
+
+//* Articles *//
+@import 'elements/articles'; // Styling for <article> elements
 
 // -*-*- Shame -*-*- //
 @import 'shame'; // Shame on me!
