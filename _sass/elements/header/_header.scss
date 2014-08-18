@@ -1,6 +1,6 @@
 .header {
-  border-top: 5px solid #658E15;
-  border-right: 5px solid #658E15;
+  border-top: 5px solid $headerBorderColor;
+  border-right: 5px solid $headerBorderColor;
   border-bottom: 1px solid #E8E8E8;
   min-height: 64px;
 }
