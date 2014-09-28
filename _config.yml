@@ -1,7 +1,7 @@
 # Site settings
-title: Mad City Folders
+title: MadCity Folders
 email: madcityfolders@gmail.com
-description: "Mad City Folders is Madison's Origami group. We have meetings monthly, and a crease-pattern server in the works"
+description: "MadCity Folders is Madison's Origami group. We have meetings monthly, and a crease-pattern server in the works"
 baseurl: ""
 url: ""
 #twitter_username: jekyllrb
