@@ -11,6 +11,9 @@
 	<!-- Title templating !-->
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 
+  <!-- NORMALIZE IT ALL !-->
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/normalize/3.0.1/normalize.min.css">
+
   <!-- Responsive FTW! !-->
   <link rel="stylesheet" href="{{ "/css/responsive.css" | prepend: site.baseurl }}">
 
