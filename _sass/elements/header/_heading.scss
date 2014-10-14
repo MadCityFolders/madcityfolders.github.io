@@ -1,11 +1,8 @@
-.heading {
+.heading, heading:hover {
   font-family: $headingFont, sans-serif;
   font-size: $headingFontSize;
   display: block;
   color: $headingFontColor;
-  &:hover {
-    text-decoration: underline;  
-  }
   float: left;
   position: relative;
   letter-spacing: -1;
