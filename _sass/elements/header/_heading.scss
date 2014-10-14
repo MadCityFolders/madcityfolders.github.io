@@ -3,7 +3,9 @@
   font-size: $headingFontSize;
   display: block;
   color: $headingFontColor;
-  text-decoration: none;
+  &:hover {
+    text-decoration: underline;  
+  }
   float: left;
   position: relative;
   letter-spacing: -1;
