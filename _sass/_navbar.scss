@@ -1,0 +1,47 @@
+/* Navbar - The Library
+A library for Navbars that's *sane*, *flat*, and *customizable*. Yay!
+BSD 3-clause licensed. Copyright 2015 Liam Marshall.
+*/
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  background: $navbar-bgcolor;
+  padding: 20px;
+
+  // special styling for this site
+  border-top: 5px solid $brand-color;
+  border-right: 5px solid $brand-color;
+  border-bottom: 1px solid $gray;
+
+  > * {
+    margin: 0 10px;
+  }
+
+  a {
+    text-decoration: none;
+    color: $text-color;
+  }
+}
+
+@media (max-width: 650px) {
+  .navbar {
+    flex-wrap: wrap;
+  }
+}
+
+// special styling for this site
+.name-callout {
+  font: 56px "Origami", $base-font-family
+}
