@@ -1,0 +1,21 @@
+.site-footer {
+  padding-top: 0.5rem;
+  margin-top: 0.5rem;
+  border-top: solid 1px #eff0f1;
+
+  text-align: center;
+
+  @include large {
+    font-size: 1rem;
+  }
+
+  @include medium {
+    font-size: 1rem;
+  }
+
+  @include small {
+    font-size: 0.9rem;
+  }
+
+  color: lighten($black, 10%);
+}
