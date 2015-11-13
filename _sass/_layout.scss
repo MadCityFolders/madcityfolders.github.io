@@ -1,0 +1,92 @@
+.main-content {
+    @include large {
+      max-width: 64rem;
+      padding: 2rem 6rem;
+      margin: 0 auto;
+      font-size: $base-font-size;
+    }
+    @include medium {
+      padding: 2rem 4rem;
+      font-size: $base-font-size;
+    }
+    @include small {
+      padding: 2rem 1rem;
+      font-size: $small-font-size;
+    }
+    @extend %clearfix;
+}
+
+
+/**
+ * page content
+ */
+
+.page-header {
+  font-size: 20px;
+}
+
+.post-list {
+    margin-left: 0;
+    list-style: none;
+
+    > li {
+        margin-bottom: $spacing-unit;
+    }
+}
+
+.post-meta {
+    font-size: $small-font-size;
+    color: $gray;
+}
+
+.post-link {
+    display: block;
+    font-size: 24px;
+}
+
+
+
+/**
+ * posts
+ */
+.post-header {
+    margin-bottom: $spacing-unit;
+}
+
+.post-title {
+    font-size: 42px;
+    letter-spacing: -1px;
+    line-height: 1;
+
+    @include large {
+        font-size: 36px;
+    }
+}
+
+.post-content {
+    margin-bottom: $spacing-unit;
+
+    h2 {
+        font-size: 32px;
+
+        @include large {
+            font-size: 28px;
+        }
+    }
+
+    h3 {
+        font-size: 26px;
+
+        @include large {
+            font-size: 22px;
+        }
+    }
+
+    h4 {
+        font-size: 20px;
+
+        @include large {
+            font-size: 18px;
+        }
+    }
+}
