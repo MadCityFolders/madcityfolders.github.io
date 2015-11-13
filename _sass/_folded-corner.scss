@@ -1,18 +1,20 @@
-.fold-corner {
+.folded-corner {
   &:before {
     content: "";
     position: absolute;
-    top: 0;
-    right: 0;
+    top: 0; right: 0;
+
     border-width: 0 32px 32px 0;
     border-style: solid;
-    border-color: #fff #fff $headerBorderColor $headerBorderColor;//#658E15 #658E15;
-    background: $headerBorderColor;//#658E15;
+    border-color: #fff #fff $brand-color $brand-color;
+
+    background: $brand-color;
+
     -webkit-box-shadow: 0 1px 1px rgba(0,0,0,0.3), -1px 1px 1px rgba(0,0,0,0.2);
     -moz-box-shadow: 0 1px 1px rgba(0,0,0,0.3), -1px 1px 1px rgba(0,0,0,0.2);
     box-shadow: 0 1px 1px rgba(0,0,0,0.3), -1px 1px 1px rgba(0,0,0,0.2);
-    /* Firefox 3.0 damage limitation */
-    display: block; width: 0;
+
+    display: block; width: 0; // make sure it works on old versions of firefox
   }
 
   &.rounded-fold {

@@ -1,33 +1,55 @@
 ---
+# Only the main Sass file needs front matter (the dashes are enough)
 ---
-// -*-*- Variables -*-*- //
-@import 'variables/global'; // Global variables
-@import 'variables/styling'; // Styling variables
+@charset "utf-8";
 
-// -*-*- Fonts -*-*- //
-@import 'components/nicefonties'; // All the /google/ fonts
-@import 'components/socialfooter'; // Styling for the social links in the footer
 
-// -*-*- Effects -*-*- //
-@import 'components/effects/foldedcorner'; // Folded corner effect
+@import 'normalize';
+@import 'clearfix';
 
-// -*-*- Elements -*-*- //
+@import 'colors/colors';
+@import 'fonts';
 
-//* Header *//
-@import 'variables/header/styling'; // Styling variables for the header
-@import 'elements/header/header'; // Main .header class
-@import 'elements/header/heading'; // Header heading (title)
-@import 'elements/header/title'; // Small .title styling
-@import 'elements/header/links'; // Styling for links in the menu
 
-//* Headers *//
-@import 'elements/headers'; // Styling for <h*> elements
+// Our variables
+$base-font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$base-font-size:   16px;
+$base-font-weight: 400;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.5;
 
-//* Paragraphs *//
-@import 'elements/paragraphs'; // Styling for <p> elements
+$spacing-unit:     30px;
 
-//* Articles *//
-@import 'elements/articles'; // Styling for <article> elements
+$text-color:       $black;
+$background-color: $white;
+$brand-color:      darken($red, 25%);//#4c004c;
+$navbar-bgcolor:   $background-color;
 
-// -*-*- Shame -*-*- //
-@import 'shame'; // Shame on me!
+$footer-height: 45px;
+
+$large-breakpoint: 64em;
+$medium-breakpoint: 42em;
+
+@mixin large {
+  @media screen and (min-width: #{$large-breakpoint}) {
+    @content;
+  }
+}
+
+@mixin medium {
+  @media screen and (min-width: #{$medium-breakpoint}) and (max-width: #{$large-breakpoint}) {
+    @content;
+  }
+}
+
+@mixin small {
+  @media screen and (max-width: #{$medium-breakpoint}) {
+    @content;
+  }
+}
+
+@import 'base';
+@import 'layout';
+@import 'folded-corner';
+@import 'navbar';
+@import 'footer';
