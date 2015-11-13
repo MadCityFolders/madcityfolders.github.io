@@ -13,12 +13,15 @@ html {
   box-sizing: border-box;
 }
 
+$navbar-vpadding: 1px;
+
 .navbar {
   display: flex;
   align-items: center;
+  justify-content: center;
   width: 100%;
   background: $navbar-bgcolor;
-  padding: 20px;
+  padding: ($navbar-vpadding + 5px) 0px $navbar-vpadding 0px;
 
   // special styling for this site
   border-top: 5px solid $brand-color;
@@ -26,7 +29,9 @@ html {
   border-bottom: 1px solid $gray;
 
   > * {
-    margin: 0 10px;
+    margin: 0 20px;
+    font-family: 'Origram', sans-serif;
+    font-size: 30px;
   }
 
   a {
