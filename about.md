@@ -5,4 +5,4 @@ permalink: /about/
 group: 'nav'
 ---
 
-This is where we could put our statement about what we do.
+MadCity Folders is a diverse group of origami enthusiasts who meet monthly to teach, share, and practice the art of origami.
