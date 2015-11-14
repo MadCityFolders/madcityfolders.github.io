@@ -16,6 +16,10 @@
     @extend %clearfix;
 }
 
+/* calendar */
+iframe.calendar {
+  margin: 0 auto;
+}
 
 /**
  * page content
