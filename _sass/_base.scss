@@ -18,6 +18,17 @@ body {
   margin-bottom: $footer-height;
 }
 
+.callout {
+  font: 1.5em 'Origram';
+  text-align: center;
+  strong {
+    font-family: 'Origami';
+    font-size: 1.60em;
+    font-style: normal;
+    font-weight: normal;
+  }
+}
+
 .site-footer {
   position: absolute;
   bottom: 0;
