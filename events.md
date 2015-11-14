@@ -9,11 +9,9 @@ group: 'nav'
 
 ### Saturday December 12, 1:00pm - 4:00pm
 
-Join us for an Origami Open House on Saturday, December 12th
-from 1:00 - 4:00 PM at the Middleton Public Library.
-Mad City Folders founder Ruthanne Bessman and other members will be on hand to offer instruction in a variety of origami projects.
-These paper folding projects are self-paced and appropriate for all
-ages and skill levels.
+Join us for an "Origami Open House" on Saturday, December 12th from 1:00 - 4:00 PM at the Middleton Public Library.
+Master artist Ruthanne Bessman and the Mad City Folders will be on hand to offer instruction in a variety of origami projects.
+These paper folding projects are self-paced and appropriate for all ages and skill levels.
 Stop by the Archer Room on the library's lower level any time between 1 and 4 to join the fun!
 
 ## Origami By Children display
