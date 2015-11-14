@@ -28,4 +28,4 @@ be housed in the glass display case in the library's lobby.
 ## "Dimensions" Origami Installation (2010)
 ![Image of Dimensions installation]({{ site.url }}/assets/dimensions1.jpg)
 
-This origami art installation was co-designed and taught by our founder, Ruthanne Bessman.
+This origami art installation, at the Middleton Library, was co-designed and taught by our founder, Ruthanne Bessman.
