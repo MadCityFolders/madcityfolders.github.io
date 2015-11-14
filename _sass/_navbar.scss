@@ -37,6 +37,10 @@ $navbar-vpadding: 1px;
     text-decoration: none;
     color: $text-color;
   }
+
+  a.active {
+    border-bottom: 4.5px solid $brand-color;
+  }
 }
 
 @media (max-width: 650px) {
