@@ -19,6 +19,7 @@ $navbar-vpadding: 1px;
   display: flex;
   align-items: center;
   justify-content: center;
+
   width: 100%;
   background: $navbar-bgcolor;
   padding: ($navbar-vpadding + 5px) 0px $navbar-vpadding 0px;
@@ -52,5 +53,6 @@ $navbar-vpadding: 1px;
 
 // special styling for this site
 .name-callout {
-  font: 56px "Origami", $base-font-family
+  font: 56px "Origami", $base-font-family;
+  text-align: center;
 }
