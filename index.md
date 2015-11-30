@@ -10,7 +10,7 @@ layout: page
 We meet the second Monday of each month, at the Sequoya Library ([directions](https://www.google.com/maps/place/Madison+Public+Library:+Sequoya+Branch/@43.0342714,-89.4227239,12.75z)) from 6:30 to 8:30 PM.
 Gather around a table, fold, talk, exchange ideas, bring your favorite books and projects to share! All ages welcome.
 
-To join our mailing list to be notified about meetings and events, send an email [here](mailto:madcityfolders@gmail.com).
+Join our mailing list to be notified about meetings and events, by [emailing us](mailto:madcityfolders@gmail.com).
 
 ## Our history
 
