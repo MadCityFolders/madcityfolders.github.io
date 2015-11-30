@@ -26,15 +26,15 @@ body {
   margin-top: 2em;
 }
 
-.callout {
-  font: 1.5em 'Origram';
-  text-align: center;
-  strong {
-    font-family: 'Origami';
-    font-size: 1.2em;
-    font-style: normal;
-    font-weight: normal;
-  }
+.front-page-text {
+  font-size: 1.1em;
+}
+
+.callout strong {
+  font-family: 'Origami';
+  font-size: 1.3em;
+  font-style: normal;
+  font-weight: normal;
 }
 
 .site-footer {

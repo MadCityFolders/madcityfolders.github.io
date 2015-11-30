@@ -13,6 +13,14 @@
       padding: 2rem 1rem;
       font-size: $small-font-size;
     }
+    &.front-page {
+      @include large {
+        max-width: 80rem;
+        padding: 2rem 6rem;
+        margin: 0 auto;
+        font-size: $base-font-size;
+      }
+    }
     @extend %clearfix;
 }
 
