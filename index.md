@@ -23,4 +23,4 @@ The thousands of pieces that make up the mural were folded by community
 volunteers.
 
 The friendships that came out of this experience were the beginning of
-MadCity Folders, which has been meeting for the past 3+ years.
+MadCity Folders, which has been meeting for the past 4 years.
