@@ -26,15 +26,10 @@ body {
   margin-top: 2em;
 }
 
-.front-page-text {
-  font-size: 1.1em;
-}
-
-.callout strong {
-  font-family: 'Origami';
-  font-size: 1.3em;
-  font-style: normal;
-  font-weight: normal;
+.name-callout {
+  font-size: 1.5em;
+  font-weight: 700;
+  color: $brand-color;
 }
 
 .site-footer {

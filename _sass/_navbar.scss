@@ -16,6 +16,11 @@ html {
 $navbar-vpadding: 1px;
 
 .navbar {
+  // special styling for this site
+  .name-callout {
+    font: 56px "Origami", $base-font-family;
+    text-align: center;
+  }
   display: flex;
   align-items: center;
   justify-content: center;
@@ -49,10 +54,4 @@ $navbar-vpadding: 1px;
   .navbar {
     flex-wrap: wrap;
   }
-}
-
-// special styling for this site
-.name-callout {
-  font: 56px "Origami", $base-font-family;
-  text-align: center;
 }
