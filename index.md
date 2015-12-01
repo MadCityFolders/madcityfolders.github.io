@@ -14,9 +14,9 @@ Join our mailing list to be notified about meetings and events, by [emailing us]
 
 ## Our history
 
-In 2010, Shirwill Lukes, a set designer for WHA television, and
+In 2010, Shirwil Lukes, a set designer for WHA television, and
 Ruthanne Bessman, a classical music host on Wisconsin Public Radio (and an
-origami master who has studied in Japan and been on the board of OrigamiUSA)
+origami artist and teacher who has studied in Japan and been on the board of OrigamiUSA)
 designed the mural displayed behind the circulation desk in the Middleton
 Public Library.
 The thousands of pieces that make up the mural were folded by community
