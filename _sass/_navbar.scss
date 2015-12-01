@@ -55,3 +55,17 @@ $navbar-vpadding: 1px;
     flex-wrap: wrap;
   }
 }
+
+
+.no-flexbox {
+  .navbar {
+    display: table;
+    border-spacing: 15px;
+    padding: 0;
+    > * {
+      display: table-cell;
+      vertical-align: middle;
+      white-space: nowrap;
+    }
+  }
+}
