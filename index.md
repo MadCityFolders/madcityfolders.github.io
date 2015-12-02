@@ -12,6 +12,9 @@ Gather around a table, fold, talk, exchange ideas, bring your favorite books and
 
 Join our mailing list to be notified about meetings and events, by [emailing us](mailto:madcityfolders@gmail.com).
 
+## Upcoming Events
+* [Origami Open House](/events/#origami-open-house), 1:00pm - 4:00pm, Saturday December 12, 2015, [Middleton Public Library](https://www.google.com/maps/place/Middleton+Public+Library/@43.0949512,-89.5115643,17z)
+
 ## Our history
 
 In 2010, Shirwil Lukes, a set designer for WHA television, and
