@@ -1,5 +1,6 @@
 <header class="navbar folded-corner">
-  <div class="name-callout"><a href="{{site.baseurl}}/">MadCity Folders</a></div>
+  <div class="logo inline"><img src="{{site.baseurl}}/assets/mcf_logo_inline.svg"></img></div>
+  <div class="logo stacked"><img src="{{site.baseurl}}/assets/mcf_logo_stacked.svg"></img></div>
   {% for node in site.pages %}
     {% if node.group == 'nav' %}
       {% if page.url == node.url %}

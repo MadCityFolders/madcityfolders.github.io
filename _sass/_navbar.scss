@@ -16,14 +16,18 @@ html {
 $navbar-vpadding: 1px;
 
 .navbar {
-  // special styling for this site
-  .name-callout {
-    font: 56px "Origami", $base-font-family;
-    text-align: center;
-  }
   display: flex;
+  flex-flow: row wrap;
   align-items: center;
   justify-content: center;
+
+  @include medium {
+    justify-content: space-around;
+  }
+
+  @include small {
+    flex-direction: column;
+  }
 
   width: 100%;
   background: $navbar-bgcolor;
@@ -48,11 +52,30 @@ $navbar-vpadding: 1px;
   a.active {
     border-bottom: 4.5px solid $brand-color;
   }
-}
 
-@media (max-width: 650px) {
-  .navbar {
-    flex-wrap: wrap;
+  .logo {
+    width: 33.33%;
+    padding-bottom: 3px; // HACK to center things
+    &.inline {
+      min-width: 7em;
+      max-width: 15em;
+      display: inline;
+      @include small {
+        display: none;
+      }
+    }
+    &.stacked {
+      width: 40%;
+      min-width: 6em;
+      display: none;
+      @include small {
+        display: inline;
+      }
+    }
+  }
+
+  img:not(.png) {
+    width: 100%;
   }
 }
 
