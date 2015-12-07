@@ -1,0 +1,22 @@
+$grout: 10px;
+
+#gallery {
+  line-height: 0;
+  column-count: 5;
+  column-gap: $grout;
+  img {
+    width: 100%;
+    height: auto;
+    margin-bottom: $grout;
+  }
+  @include large {
+    column-count: 3;
+  }
+  @include medium {
+    column-count: 2;
+  }
+  @include small {
+    column-count: 1;
+  }
+  overflow: auto;
+}

@@ -1,19 +1,20 @@
-galleryContentsElement = document.getElementById('data-gallery-contents');
-galleryContents = JSON.parse(galleryContentsElement.textContent);
-console.log(galleryContents);
+$(document).ready(function() {
+  galleryContentsElement = $('#data-gallery-contents');
+  galleryContents = JSON.parse(galleryContentsElement.text());
+  console.log(galleryContents);
 
-galleryContainer = document.getElementById('thumbnail-gallery');
-for (var i = 0; i < galleryContents.length; i++) {
-  var image = galleryContents[i];
+  gallery = $('#gallery');
+  for (var i = 0; i < galleryContents.length; i++) {
+    var image = galleryContents[i];
 
-  var imageDiv = document.createElement("div");
-  var imgElement = document.createElement("img");
-  imgElement.src = image;
-  imageDiv.appendChild(imgElement);
-  galleryContainer.appendChild(imageDiv);
-}
-
-var pckry = new Packery(galleryContainer, {
-  itemSelection: 'div',
-  gutter: 10
+    var imageDiv = $('<div>');
+    var imageLink = $('<a>');
+    var imageElement = $('<img>');
+    imageElement.attr('src', image);
+    imageLink.attr('href', image);
+    imageLink.attr('data-lightbox', 'gallery-image-' + i);
+    imageLink.append(imageElement);
+    imageDiv.append(imageLink);
+    gallery.append(imageDiv);
+  }
 });
