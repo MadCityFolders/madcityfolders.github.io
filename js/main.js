@@ -1,5 +1,7 @@
-anchors.options = {
-  placement: 'left',
-  icon: '#'
-}
-anchors.add('h1, h2, h3');
+$(document).ready(function() {
+  anchors.options = {
+    placement: 'left',
+    icon: ''
+  }
+  anchors.add('h1, h2, h3');
+});
