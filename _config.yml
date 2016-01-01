@@ -11,3 +11,6 @@ markdown: kramdown
 
 # Pretty permalinks
 permalink: pretty
+
+sass:
+  style: compressed
