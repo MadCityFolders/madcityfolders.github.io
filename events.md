@@ -5,11 +5,11 @@ permalink: /events/
 group: 'nav'
 ---
 
-# Folding for a Better World: An MLK, Jr Day Origami Celebration
+# Current or Upcoming Events
 
-## Monday January 18 from 2:00 - 5:00 pm.
+## Folding for a Better World: An MLK, Jr Day Origami Celebration
 
-### In the downstairs Archer Room (through the lobby stairwell)
+### [Middleton Public Library](https://www.google.com/maps/place/Middleton+Public+Library/@43.0949512,-89.5115643,17z), Archer Room, Monday January 18 from 2:00 - 5:00 pm
 Origami artist Ruthanne Bessman and the MadCity Folders will lead participants in the creation of a public art piece to be displayed at the library in honor of Martin Luther King, Jr. and his legacy.
 
 Choose from several paper folding projects and inscribe each with your favorite quote from Dr. King or another individual who inspires you.  The individual pieces will be arranged to create a public art piece in the library’s Stairwell Gallery.  All ages and skill levels are welcome to drop in between 2:00 and 5:00 PM.  No registration is required.
@@ -19,7 +19,7 @@ Ruthanne Bessman is a origami artist and teacher who led the creation of the ori
 
 ## Origami By Children display
 
-### Middleton Public Library
+### [Middleton Public Library](https://www.google.com/maps/place/Middleton+Public+Library/@43.0949512,-89.5115643,17z)
 Starting on December 1st, the library will host a traveling
 display by OrigamiUSA entitled "Origami by Children" featuring
 the work of over two dozen artists ages 5-18.  The exhibit will
