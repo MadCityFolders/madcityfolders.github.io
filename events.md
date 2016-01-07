@@ -7,7 +7,7 @@ group: 'nav'
 
 # Current or Upcoming Events
 
-## Folding for a Better World: An MLK, Jr Day Origami Celebration
+## Folding for a Better World: An MLK Jr. Day Origami Celebration
 
 ### [Middleton Public Library](https://www.google.com/maps/place/Middleton+Public+Library/@43.0949512,-89.5115643,17z), Archer Room, Monday January 18 from 2:00 - 5:00 pm
 Origami artist Ruthanne Bessman and the MadCity Folders will lead participants in the creation of a public art piece to be displayed at the library in honor of Martin Luther King, Jr. and his legacy.
