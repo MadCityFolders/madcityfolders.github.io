@@ -6,16 +6,7 @@ group: 'nav'
 ---
 
 # Current or Upcoming Events
-
-## Folding for a Better World: An MLK Jr. Day Origami Celebration
-
-### [Middleton Public Library](https://www.google.com/maps/place/Middleton+Public+Library/@43.0949512,-89.5115643,17z), Archer Room, Monday January 18 from 2:00 - 5:00 pm
-Origami artist Ruthanne Bessman and the MadCity Folders will lead participants in the creation of a public art piece to be displayed at the library in honor of Martin Luther King, Jr. and his legacy.
-
-Choose from several paper folding projects and inscribe each with your favorite quote from Dr. King or another individual who inspires you.  The individual pieces will be arranged to create a public art piece in the library’s Stairwell Gallery.  All ages and skill levels are welcome to drop in between 2:00 and 5:00 PM.  No registration is required.
-
-Ruthanne Bessman is a origami artist and teacher who led the creation of the origami mural above the library’s circulation desk.  This event is one of several origami workshops held to celebrate the mural’s 5th anniversary.
-
+*Nothing currently planned*.
 
 ## Origami By Children display
 
@@ -27,8 +18,15 @@ be housed in the glass display case in the library's lobby.
 
 # Previous Events
 
+## Folding for a Better World: An MLK Jr. Day Origami Celebration
+
+We ran an event celebrating Martin Luther King, Jr. on Monday January 18, 2015 at the Middleton Public Library.
+Participants got a chance to create a public art piece to be displayed at the library in honor of Martin Luther King, Jr. and his legacy.
+Several paper folding projects were taught and participants could inscribe each with their favorite quote from Dr. King or another inspiring individual.
+The individual pieces were arranged to create a public art piece in the library’s Stairwell Gallery.
+
 ## Origami Open House
-We hosted an "Origami Open House" on Saturday, December 12th, 2015 from at the Middleton Public Library.
+We hosted an "Origami Open House" on Saturday, December 12th, 2015 at the Middleton Public Library.
 Origami artist and teacher Ruthanne Bessman and the Mad City Folders taught a variety of origami projects, such as flapping birds, boxes, jumping frogs, and envelopes.
 Around 200 people came to learn how to fold!
 
