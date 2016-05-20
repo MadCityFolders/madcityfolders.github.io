@@ -8,14 +8,6 @@ group: 'nav'
 # Current or Upcoming Events
 *Nothing currently planned*.
 
-## Origami By Children display
-
-### [Middleton Public Library](https://www.google.com/maps/place/Middleton+Public+Library/@43.0949512,-89.5115643,17z)
-Starting on December 1st, the library will host a traveling
-display by OrigamiUSA entitled "Origami by Children" featuring
-the work of over two dozen artists ages 5-18.  The exhibit will
-be housed in the glass display case in the library's lobby.
-
 # Previous Events
 
 ## Folding for a Better World: An MLK Jr. Day Origami Celebration
