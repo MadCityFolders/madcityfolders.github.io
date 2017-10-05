@@ -15,9 +15,7 @@ Meetings are open to ages 8 and up, children under the age of 12 must be accompa
 Join our mailing list to be notified about meetings and events, by [emailing us](mailto:madcityfolders@gmail.com).
 
 ## Current Events
-There is an [ongoing exhibition](https://sohe.wisc.edu/research-development/design-gallery/) of Ruthanne Bessman's origami work at the [UW School of Human Ecology](https://goo.gl/maps/oDS8riStqw82) from Sunday, January 22 – Sunday, March 5, 2017, in the Lynn Mecklenburg Reading Room.
-
-Ruthanne Bessman is a founding member of Mad City Folders. Many of the pieces have not been on display for more than ten years.
+Longtime OrigamiUSA member Deanna Kwan will be joining us for the monthly Mad City Folders meeting this Monday (October 9th, 2017, 6:30-8:30pm). She's excited to be with us, teaching some of her favorite models.
 
 ## Our history
 
