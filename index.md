@@ -15,7 +15,7 @@ Meetings are open to ages 8 and up, children under the age of 12 must be accompa
 Join our mailing list to be notified about meetings and events, by [emailing us](mailto:madcityfolders@gmail.com).
 
 ## Current Events
-Longtime OrigamiUSA member Deanna Kwan will be joining us for the monthly Mad City Folders meeting this Monday (October 9th, 2017, 6:30-8:30pm). She's excited to be with us, teaching some of her favorite models.
+*Nothing is currently planned.*
 
 ## Our history
 
