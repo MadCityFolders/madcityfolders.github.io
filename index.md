@@ -15,9 +15,7 @@ Meetings are open to ages 8 and up, children under the age of 12 must be accompa
 Join our mailing list to be notified about meetings and events, by [emailing us](mailto:madcityfolders@gmail.com).
 
 ## Current Events
-Join us at the [Sequoya Library’s 10th Anniversary Party](https://www.madisonpubliclibrary.org/events/sequoya-library-10th-anniversary-party-1195361) this Saturday, November 10 from 1:00-4:00 pm.
-MCF members will be teaching a few origami models.
-Come join the fun!
+Nothing currently scheduled.
 
 ## Our history
 
