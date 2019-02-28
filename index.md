@@ -25,7 +25,5 @@ origami artist and teacher who has studied in Japan and been on the board of Ori
 designed the mural displayed behind the circulation desk in the Middleton
 Public Library.
 The thousands of pieces that make up the mural were folded by community
-volunteers.
-
-The friendships that came out of this experience were the beginning of
-MadCity Folders, which has been meeting for the past 4 years.
+volunteers; the friendships that came out of this experience were the beginning of
+MadCity Folders.
